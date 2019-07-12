@@ -31,3 +31,7 @@ Open and run the auth-tutorial-api project
 
 ## Run the client sample
 Open and run the auth-tutorial-ios project
+
+
+## References
+[OAuth2 implementation with ORY Hydra, Vapor 3 and iOS 12](https://medium.com/12plus1/oauth2-with-ory-hydra-vapor-3-and-ios-12-ca0e61c28f5a)
